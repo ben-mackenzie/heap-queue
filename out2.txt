@@ -1,0 +1,15 @@
+Heap-based Priority Queue test on ascending list
+
+
+heap after building:
+1 2 5 7 9 16 17 28 39 45
+
+
+heap after inserting 14:
+1 2 5 7 9 16 17 28 39 45 14
+
+
+heap after deleting min:
+2 7 5 14 9 16 17 28 39 45
+
+

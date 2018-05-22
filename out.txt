@@ -1,0 +1,15 @@
+Heap-based Priority Queue test on random list
+
+
+heap after building:
+13 16 19 21 19 68 65 26 32
+
+
+heap after inserting 14:
+13 14 19 21 16 68 65 26 32 19
+
+
+heap after deleting min:
+14 16 19 21 19 68 65 26 32
+
+

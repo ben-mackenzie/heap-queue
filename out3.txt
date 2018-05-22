@@ -1,0 +1,104 @@
+Heap-based Priority Queue test on random list w/ CPU timing
+10 timed insertions, 10 timed deletions:
+
+
+heap after insertion number 1
+13
+time to insert: 6.00000000001e-06
+
+
+heap after insertion number 2
+13 21
+time to insert: 6.00000000001e-06
+
+
+heap after insertion number 3
+13 21 16
+time to insert: 6.00000000001e-06
+
+
+heap after insertion number 4
+13 21 16 24
+time to insert: 5.99999999999e-06
+
+
+heap after insertion number 5
+13 21 16 24 31
+time to insert: 6.00000000001e-06
+
+
+heap after insertion number 6
+13 21 16 24 31 19
+time to insert: 9.00000000001e-06
+
+
+heap after insertion number 7
+13 21 16 24 31 19 68
+time to insert: 5.99999999999e-06
+
+
+heap after insertion number 8
+13 21 16 24 31 19 68 65
+time to insert: 5.00000000001e-06
+
+
+heap after insertion number 9
+13 21 16 24 31 19 68 65 26
+time to insert: 6.99999999999e-06
+
+
+heap after insertion number 10
+13 21 16 24 31 19 68 65 26 32
+time to insert: 4.99999999999e-06
+
+
+heap after deletion number 1
+16 21 19 24 31 32 68 65 26
+time to delete: 2.3e-05
+
+
+heap after deletion number 2
+19 21 26 24 31 32 68 65
+time to delete: 9e-06
+
+
+heap after deletion number 3
+21 24 26 65 31 32 68
+time to delete: 1e-05
+
+
+heap after deletion number 4
+24 31 26 65 68 32
+time to delete: 1.1e-05
+
+
+heap after deletion number 5
+26 31 32 65 68
+time to delete: 7.99999999999e-06
+
+
+heap after deletion number 6
+31 65 32 68
+time to delete: 1.2e-05
+
+
+heap after deletion number 7
+32 65 68
+time to delete: 6.99999999999e-06
+
+
+heap after deletion number 8
+65 68
+time to delete: 6.99999999999e-06
+
+
+heap after deletion number 9
+68
+time to delete: 4e-06
+
+
+heap after deletion number 10
+
+time to delete: 5.99999999999e-06
+
+
