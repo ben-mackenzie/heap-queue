@@ -1,25 +1,3 @@
-'''
-1) Ben Mackenzie
-2) 3/26/2018
-3) Program specifications
-
-I. Purpose of the program and any information pertaining to its description
-This project is designed to explore queues using heaps, particularly
-the insert and deleteMin methods.
-
-
-II. Input
-4 text files containing ascending sorted, descending sorted, and random integers lists.
-
-III. Output
-4 output files containing records of built heaps, modified heaps after insertion and deletion,
-and out3.txt contains records of each iteration of 10 insertions and deletions along with the time
-for each process.
-
-IV. Bugs or Implemented Test Cases; and, any theoretical follow-up including assignment questions to be turned in for grading
-Follow up testing could include the timing of insertion and deletion on sorted versus random lists.
-'''
-
 import sys
 import time
 from heap import HeapQueue
